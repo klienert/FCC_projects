@@ -1,0 +1,15 @@
+.colors {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1.5em;
+    margin: 3em 0 1em 0;
+}
+
+.color_container {
+    border: 1px solid black;
+    width: 20em;
+    height: 20em;
+}
+
